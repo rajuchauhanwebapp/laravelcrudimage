@@ -1,0 +1,12 @@
+.h4-color{
+   color: #07c681;
+}
+#img-div-postion{
+   position: absolute;
+   z-index: 10;
+   left: 35%;
+}
+
+td img{
+   cursor: pointer;
+}
